@@ -9,3 +9,4 @@ const firebaseConfig = {
   appId: "1:337715197356:web:4391733c4b8868c45c7609",
   measurementId: "G-ZSWRBPG68E",
 };
+TextTrack;
